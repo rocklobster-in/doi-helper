@@ -12,6 +12,8 @@
  * Requires PHP: 7.4
  */
 
+if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+
 define( 'DOIHELPER_VERSION', '1.0' );
 
 define( 'DOIHELPER_PLUGIN', __FILE__ );
