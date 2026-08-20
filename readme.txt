@@ -1,5 +1,5 @@
 === Double Opt-In Helper ===
-Contributors: takayukister
+Contributors: rocklobsterinc, takayukister
 Tags: privacy, consent, opt-in
 Requires at least: 6.4
 Tested up to: 6.5
