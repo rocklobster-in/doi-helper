@@ -82,8 +82,29 @@ function doihelper_register_post_types() {
 				'singular_name' => __( 'DOI Entry', 'doi-helper' ),
 			),
 			'public' => false,
+			'show_in_rest' => false,
 			'rewrite' => false,
 			'query_var' => false,
+			'capability_type' => array(
+			    'doihelper_entry',
+				'doihelper_entries',
+			),
+			'capabilities' => array(
+ 		        'edit_post' => 'edit_users',
+          		'read_post' => 'edit_users',
+          		'delete_post' => 'edit_users',
+          		'edit_posts' => 'edit_users',
+          		'edit_others_posts' => 'edit_users',
+          		'delete_posts' => 'edit_users',
+          		'publish_posts' => 'edit_users',
+          		'read_private_posts' => 'edit_users',
+          		'read' => 'edit_users',
+          		'delete_private_posts' => 'edit_users',
+          		'delete_published_posts' => 'edit_users',
+          		'delete_others_posts' => 'edit_users',
+          		'edit_private_posts' => 'edit_users',
+          		'edit_published_posts' => 'edit_users',
+			),
 		)
 	);
 
