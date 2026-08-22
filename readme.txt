@@ -36,13 +36,16 @@ For details on how to use it, see [Double Opt-In Helper](https://contactform7.co
 
 == Changelog ==
 
+= 1.1 =
+
+* Bumps up the minimum required WordPress version to 7.1.
+* Bumps up the minimum required PHP version to 8.3.
+* Changes the author name to Rock Lobster Inc. (a Japan-based company that the original author, Takayuki Miyoshi, owns)
+* Improves the post type capabilities definition.
+
 = 1.0 =
 
 * Bumps up the minimum required WordPress version to 6.1.
 * Bumps up the minimum required PHP version to 7.4.
-
-= 0.73 =
-
-Initial release.
 
 == Upgrade Notice ==
