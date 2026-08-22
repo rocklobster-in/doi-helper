@@ -4,10 +4,10 @@ Tags: privacy, consent, opt-in
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Donate link: https://contactform7.com/donate/
-Stable tag: trunk
+Stable tag: 1.0
 Requires at least: 7.1
 Requires PHP: 8.3
-Tested up to: 6.5
+Tested up to: 7.1
 
 Double Opt-In Helper is a WordPress plugin that helps developers implement the double opt-in process in their plugins.
 
@@ -36,13 +36,16 @@ For details on how to use it, see [Double Opt-In Helper](https://contactform7.co
 
 == Changelog ==
 
+= 1.1 =
+
+* Bumps up the minimum required WordPress version to 7.1.
+* Bumps up the minimum required PHP version to 8.3.
+* Changes the author name to Rock Lobster Inc. (a Japan-based company that the original author, Takayuki Miyoshi, owns)
+* Improves the post type capabilities definition.
+
 = 1.0 =
 
 * Bumps up the minimum required WordPress version to 6.1.
 * Bumps up the minimum required PHP version to 7.4.
-
-= 0.73 =
-
-Initial release.
 
 == Upgrade Notice ==
