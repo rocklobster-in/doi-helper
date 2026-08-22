@@ -4,7 +4,7 @@ Tags: privacy, consent, opt-in
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Donate link: https://contactform7.com/donate/
-Stable tag: trunk
+Stable tag: 1.0
 Requires at least: 7.1
 Requires PHP: 8.3
 Tested up to: 7.1
