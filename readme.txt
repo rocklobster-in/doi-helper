@@ -7,7 +7,7 @@ Donate link: https://contactform7.com/donate/
 Stable tag: trunk
 Requires at least: 7.1
 Requires PHP: 8.3
-Tested up to: 6.5
+Tested up to: 7.1
 
 Double Opt-In Helper is a WordPress plugin that helps developers implement the double opt-in process in their plugins.
 
